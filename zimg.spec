@@ -47,8 +47,6 @@ find %{buildroot} -name '*.la' -delete
 # Pick up docs in the files section
 rm -fr %{buildroot}%{_docdir}/%{name}
 
-%ldconfig_scriptlets
-
 %files
 %license COPYING
 %doc README.md ChangeLog
