@@ -4,7 +4,7 @@ Release:        1
 Summary:        Scaling, color space conversion, and dithering library
 License:        WTFPL
 URL:            https://github.com/sekrit-twc/zimg
-Source0:        https://github.com/sekrit-twc/zimg/archive/release-%{version}/%{name}-%{version}.tar.gz
+Source0:        https://github.com/sekrit-twc/zimg/archive/release-%{version}/%{name}-release-%{version}.tar.gz
 
 BuildRequires:  autoconf
 BuildRequires:  automake
