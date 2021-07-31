@@ -1,5 +1,5 @@
 Name:           zimg
-Version:        3.0.1
+Version:        3.0.2
 Release:        1
 Summary:        Scaling, color space conversion, and dithering library
 License:        WTFPL
