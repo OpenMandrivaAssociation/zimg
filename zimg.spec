@@ -10,6 +10,7 @@ BuildRequires:  autoconf
 BuildRequires:  automake
 BuildRequires:  gcc-c++
 BuildRequires:  libtool
+BuildRequires:	glibc-static-devel
 
 %description
 The "z" library implements the commonly required image processing basics of
