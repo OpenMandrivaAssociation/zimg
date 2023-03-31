@@ -1,6 +1,6 @@
 Name:           zimg
 Version:        3.0.4
-Release:        1
+Release:        2
 Summary:        Scaling, color space conversion, and dithering library
 License:        WTFPL
 URL:            https://github.com/sekrit-twc/zimg
